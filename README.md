@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nguyễn Dương Khánh Tâm <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
+<h3 align="center">AI Engineer</h3>
 
-<!--
-**khanhtam-ndkt/khanhtam-ndkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Code Development" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+## 💫 About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 I’m a **AI Engineer** passionate about creating practical AI applications, especially **Computer Vision** projects.
+- 🎓 Currently a **fourth-year student** at **Ho Chi Minh University of Technology (HCMC)**:
+  - Major: **Computer Science**
+  - Program: **English-taught Program**.
+- 🌱 I’m constantly improving my skills in **computer vision**, **machine learning**, and **data processing**.
+
+## 💻 Tech Stack :
+
+<a href="https://learn.microsoft.com/en-us/cpp/" target="_blank">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
+<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
+<br/>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJS" />
+</a>
