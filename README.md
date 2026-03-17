@@ -6,15 +6,15 @@
 
 <img align="right" alt="Code Development" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 💫 About Me :
+## About Me :
 
-- 🎮 I’m a **AI Engineer** passionate about creating practical AI applications, especially **Computer Vision** projects.
-- 🎓 Currently a **fourth-year student** at **Ho Chi Minh University of Technology (HCMC)**:
+- I’m a **AI Engineer** passionate about creating practical AI applications, especially **Computer Vision** projects.
+- Currently a **fourth-year student** at **Ho Chi Minh University of Technology (HCMC)**:
   - Major: **Computer Science**
   - Program: **English-taught Program**.
-- 🌱 I’m constantly improving my skills in **computer vision**, **machine learning**, and **data processing**.
+- I’m constantly improving my skills in **computer vision**, **machine learning**, and **data processing**.
 
-## 💻 Tech Stack :
+## Tech Stack :
 
 <a href="https://learn.microsoft.com/en-us/cpp/" target="_blank">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
