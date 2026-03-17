@@ -4,7 +4,7 @@
          width="45" /></h1>
 <h3 align="center">AI Engineer</h3>
 
-<img align="right" alt="Code Development" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Code Development" width="400" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://raw.githubusercontent.com/mericodes/mericodes/main/coding.gif)">
 
 ## About Me :
 
