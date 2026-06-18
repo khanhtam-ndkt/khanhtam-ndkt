@@ -9,7 +9,7 @@
 <img align="right" alt="Code Development" width="300" src="https://raw.githubusercontent.com/mericodes/mericodes/main/coding.gif">
 
 - I’m a **AI Engineer** passionate about creating practical AI applications, especially **Computer Vision** projects.
-- Currently a **fourth-year student** at **Ho Chi Minh University of Technology (HCMC)**:
+- Recently **graduated** from **Ho Chi Minh University of Technology (HCMUT)**:
   - Major: **Computer Science**
   - Program: **English-taught Program**.
 - I’m constantly improving my skills in **computer vision**, **machine learning**, and **data processing**.
